@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="GameButton">
+        <item name="android:textSize">40sp</item>
+        <item name="android:textColor">@color/primary</item>
+        <item name="android:background">@drawable/cell_background</item>
+        <item name="android:layout_margin">4dp</item>
+    </style>
+</resources> 
